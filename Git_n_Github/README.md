@@ -1,5 +1,6 @@
 # Git & GitHub Learning :student:	  
 ---  
+- [ ] [Getting started with your GitHub account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)  
 
 <details>
   <summary><h1> GitHub Skills </h1></summary>  
